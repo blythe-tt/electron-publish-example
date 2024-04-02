@@ -1,7 +1,7 @@
 {
   "name": "electron-publish-example",
   "productName": "electron-publish-example",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "description": "My Electron application description",
   "main": "src/index.js",
   "scripts": {
@@ -13,8 +13,8 @@
   },
   "keywords": [],
   "author": {
-    "name": "Erik Hofer",
-    "email": "erik-hofer@mail.de"
+    "name": "Blythe Richardson",
+    "email": "blythe@turingtrust.co.uk"
   },
   "license": "MIT",
   "config": {
@@ -47,7 +47,7 @@
           "name": "@electron-forge/publisher-github",
           "config": {
             "repository": {
-              "owner": "erikhofer",
+              "owner": "blythe-tt",
               "name": "electron-publish-example",
               "draft": true
             }
